@@ -1,4 +1,18 @@
 
+Hyan Siqueira Lopes da Silva
+
+C#
+1 – Lógica do jogo
+2 – aleatoriedade durante o game
+
+Azure
+1 – Servidor do jogo
+2 – Armazenamento de dados (Banco de dados)
+Unity 
+1 – Modelagem e física
+2 – Animações
+
+
 Brenda Santana
 
 
@@ -20,16 +34,10 @@ Brenda Santana
 • Ao final do projeto, antes da entrada em operação deve ocorrer a apresentação ao cliente.
 
 
-Hyan Siqueira Lopes da Silva
+Design de cartas - ok
 
-C#
-1 – Lógica do jogo
-2 – aleatoriedade durante o game
+Armazenamento de dados no azure - ok
 
-Azure
-1 – Servidor do jogo
-2 – Armazenamento de dados (Banco de dados)
-Unity 
-1 – Modelagem e física
-2 – Animações
+fisica do jogo - ok
 
+bug de fim de sessão (login) - nok
